@@ -1,0 +1,22 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "This is just for testing out GIT.........",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludys1/test_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ludys1/test_app/issues"
+  },
+  "homepage": "https://github.com/ludys1/test_app#readme",
+  "devDependencies": {
+    "lorem-ipsum": "^2.0.3"
+  }
+}
